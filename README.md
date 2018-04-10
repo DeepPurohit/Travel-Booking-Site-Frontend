@@ -10,3 +10,4 @@ This site is made using `Materialize Css` from a Youtube tutorial https://www.yo
 ```npm install materialize-css@next```
 
 ## Link to view project
+https://deeppurohit.github.io/Travel-Booking-Site-Frontend/
