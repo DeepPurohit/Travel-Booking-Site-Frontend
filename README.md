@@ -1,6 +1,6 @@
 # Travel-Booking-Site_Frontend
 # Book&Travel
-This site is made using `Materialize Css` from a Youtube tutorial https://www.youtube.com/watch?v=MaP3vO-vEsg
+This site is made using `Materialize Css`
 
 # Materialize Css
 ## CDN link used in project
